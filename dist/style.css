@@ -1,0 +1,46 @@
+#title{
+  text-align: center;
+  font-size: 50px;
+}
+
+#title-a{
+  font-family: 'Eczar', serif;
+}
+
+#description{
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 20px;
+}
+
+body {
+  font-weight: 400;
+  line-height: 1.4;
+  color: var(--color-white);
+  margin: 0;
+}
+
+#survey-form{
+  text-align: center;
+}
+
+body {
+  content: '';
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #ff9a76;
+}
+
+#survey-form{
+  background-color: #ffeadb;
+  padding: 250px;
+  display:inline-block;
+  position: relative;  
+  margin: 0px auto 10px auto;
+  right: -600px;
+}
+
+#color{
+  background-color: #ff9a76;
+}
